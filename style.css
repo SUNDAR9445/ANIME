@@ -1,0 +1,34 @@
+
+*{
+    margin: 0%;
+    padding: 0%
+}
+body{
+    margin: 0%;
+    padding: 0%;
+}
+#header{
+    background-image: url(https://4kwallpapers.com/images/walls/thumbs_2t/12820.jpg);
+    background-size: cover;
+    background-color: darkslateblue;
+
+}
+.row button:hover{
+    background-color: rgb(12, 121, 85);
+    color: antiquewhite;
+}
+.card :hover{
+    background-color: aqua; }
+  
+.row button{
+    border-color: black;
+    background-color: rgb(5, 153, 211)
+}
+.image :hover{
+    transform: scale(1.1);
+    transition: 1s ease-in-out;
+}
+}
+    
+
+
